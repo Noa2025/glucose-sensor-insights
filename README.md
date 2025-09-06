@@ -37,6 +37,6 @@ The goal of this analysis is to create a report for both patient and physician, 
 5.	Alerts
 * Low Sugar alerts peak: Weekday 16:00 (36 counts), Weekend 18:00 (14 counts).
 * High Sugar alerts peak: Weekday 23:00 (18 counts), Weekend 20:00 (12 counts).
-Conclusion
+### Conclusion
 This type of analysis provides valuable insight into a patient’s glucose dynamics and insulin pump behavior. By highlighting patterns in blood glucose, alert frequency, and overnight drift, the results can help physicians fine-tune basal insulin infusion settings, minimizing both hyperglycemia and hypoglycemia risks.
 Importantly, this visualization approach works without requiring information on carbohydrate intake, making it useful even when meal data are unavailable. It offers a practical, data-driven perspective to support personalized diabetes care.
